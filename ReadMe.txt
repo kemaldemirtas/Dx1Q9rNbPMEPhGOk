@@ -1,0 +1,2 @@
+In my code, I said that if average point of a customes is greater than 3, the customer is happy or vice versa. I am aware that this is a pretty incorrect
+way to interpret this data but I couldn't find a different method and I wanted to present it, anyway.
